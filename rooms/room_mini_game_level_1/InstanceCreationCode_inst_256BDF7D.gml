@@ -1,0 +1,1 @@
+previous_room_ = room_world;

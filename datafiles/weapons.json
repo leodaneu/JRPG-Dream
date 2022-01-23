@@ -1,0 +1,16 @@
+[
+ {
+   "Name": "Sword",
+   "Description": "A regular sword",
+   "Effect": "increase_damage",
+   "Arguments": 6,
+   "Price": 15
+ },
+ {
+   "Name": "Stick",
+   "Description": "A wooden stick",
+   "Effect": "increase_damage",
+   "Arguments": 2,
+   "Price": 0
+ }
+]

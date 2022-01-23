@@ -1,0 +1,51 @@
+[
+ {
+   "A": "Name",
+   "B": "Description",
+   "C": "Effect",
+   "D": "Arguments",
+   "E": "Price"
+ },
+ {
+   "A": "Apple",
+   "B": "An apple. Heals 20 HP",
+   "C": "heal_life",
+   "D": "10",
+   "E": "4"
+ },
+ {
+   "A": "Coffee",
+   "B": "A cup of coffee a day keeps the doctor away. Heals 25 HP and 10 MP.",
+   "C": "heal_effect",
+   "D": "25, 10",
+   "E": "10"
+ },
+ {
+   "A": "Burger",
+   "B": "180g of pure juicy ground beef, two slices of cheddar cheese and spicy pickle relish on a brioche bun. Heals 60 HP.",
+   "C": "heal_life",
+   "D": "60",
+   "E": "12"
+ },
+ {
+   "A": "Mint Tea",
+   "B": "A cup of hot mint tea with lemon and honey to make you feel better. Cures snotty nose.",
+   "C": "cure",
+   "D": "snot",
+   "E": "3"
+ },
+ {
+   "A": "Lemon Juice",
+   "B": "Looks like orange juice, tastes like tamarind juice. Heals 10 HP and cures thirst.",
+   "C": "heal_effect",
+   "D": "10, 0, thirst",
+   "E": "5"
+ },
+ {
+   "A": "Beef Tongue Stew",
+   "B": "If prepared correctly tastes pretty good. Braising it in a sauce with mirepoix, a bouque garni of your choice, tomato extract, worchestershire sauce and a stout beer is a good way to start. Don't forget a slurry to thicken it. Heals 70 HP.",
+   "C": "heal_life",
+   "D": "70",
+   "E": "10"
+ }
+]

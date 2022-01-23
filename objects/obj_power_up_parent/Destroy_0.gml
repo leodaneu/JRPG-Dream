@@ -1,0 +1,1 @@
+//create_animation_effect(spr_power_up_effect, x, y - 8, 1, false);
